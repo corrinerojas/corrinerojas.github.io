@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## corrine rojas
 
-You can use the [editor on GitHub](https://github.com/corrinerojas/corrinerojas.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my little space on the web. Here are some links you may find helpful.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Corrine Rojas and I am currently a Mars rover camera Operations Engineer (Payload Downlink Lead) for Mastcam-Z, which is aboard the Perseverance Rover on Mars. 
 
-### Markdown
+I am also a planetary scientist, focusing on the [Moon](https://www.hou.usra.edu/meetings/lpsc2019/pdf/2499.pdf) and [Mars](https://mars.nasa.gov/people/profile/index.cfm?id=23248).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
+![Image](https://photojournal.jpl.nasa.gov/jpegMod/PIA24935_modest.jpg)
+Inaugural Mastcam-Z panaorama of a Martian sunset on Jezero crater, Mars, taken on sol 257 (Nov 9, 2021). Usually Martian sunsets have a blue tinge due to how light scatters more efficiently than colors with longer wavelengths like we see here on Earth. This sunset appears to be more muted than the Martian sunsets we're used to, and we suspect it's due to fewer dust particles in the atmosphere during the time of this imaging. This panorama was been radiance calibrated and white-balanced to remove camera artifacts. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Image credit: [NASA/JPL-Caltech/ASU/MSSS]
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/corrinerojas/corrinerojas.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Under construction, check back later!
 
-### Support or Contact
+### Publications
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Resume
+
+### 
