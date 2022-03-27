@@ -8,12 +8,10 @@ I am also a planetary scientist, focusing on the [Moon](https://www.hou.usra.edu
 
 
 
-```markdown
 ![Image](https://photojournal.jpl.nasa.gov/jpegMod/PIA24935_modest.jpg)
 Inaugural Mastcam-Z panaorama of a Martian sunset on Jezero crater, Mars, taken on sol 257 (Nov 9, 2021). Usually Martian sunsets have a blue tinge due to how light scatters more efficiently than colors with longer wavelengths like we see here on Earth. This sunset appears to be more muted than the Martian sunsets we're used to, and we suspect it's due to fewer dust particles in the atmosphere during the time of this imaging. This panorama was been radiance calibrated and white-balanced to remove camera artifacts. 
 
 Image credit: [NASA/JPL-Caltech/ASU/MSSS]
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
