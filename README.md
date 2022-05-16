@@ -21,9 +21,31 @@ I am also a planetary scientist, focusing on the [Moon](https://www.hou.usra.edu
 
 ### Projects
 
-Under construction, check back later!
+This area will get populated as I work through some ideas. They will be predominantly in python or using python-wrapped toolkits.
+
+####Flight Tracker
+I live close to the Phoenix Sky Harbor Airport and I am an airplane enthusiast. I've been wanting to take a stab at creating an application that tracks local flights in and out of Sky Harbor, especially when I see a larger bird comes in! Here I use python and open air traffic data visualized using bokeh and pandas. I followed a fabulous tutorial available on geodose -- shout out to them! 
+
+I am currently working on backend testing of a realtime web browser-based application version that callsback every 5 seconds. 
+
+![Image](https://github.com/corrinerojas/flight_tracker/blob/master/us_flight_map_static.png)
+
+
+####NAIF SPICE Kernel Visualizations
+
+"He who controls the spice controls the universe" - Frank Herbert
+
+It's not secret how important NAIF SPICE kernels are to running a NASA mission. I am currently working through tutorials from the python-based wrapper.
+Here is the requisite Cassini visualization image, followed by a Mars Reconnaissance Orbiter exmaple. 
+
+![Image](https://github.com/corrinerojas/naif/blob/master/cassini/SpiceyPy_CassiniTutorial_PositionEx.png)
+
+
 
 ### Publications
 
+
 ### Resume
+
+Please contact Corrine Rojas for resume.
 
