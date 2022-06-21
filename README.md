@@ -28,7 +28,8 @@ I live close to the Phoenix Sky Harbor International Airport and I am an airplan
 
 I am currently working on backend testing of a realtime web browser-based application version that callsback every 5 seconds. 
 
-![Image](https://github.com/corrinerojas/flight_tracker/blob/master/us_flight_map_static.png)
+![Image](https://raw.githubusercontent.com/corrinerojas/flight_tracker/master/us_flight_map_static.png)
+>us_flight_map.py, using python and bokeh libraries
 
 
 #### NAIF SPICE Kernel Visualizations
@@ -37,14 +38,17 @@ I am currently working on backend testing of a realtime web browser-based applic
 
 It's no secret how important NAIF SPICE kernels are to running a NASA mission spacecraft. I am currently working through tutorials from the python-based wrapper.
 
-Here is the requisite Cassini position relative to Saturn visualization, followed by a Mars Reconnaissance Orbiter exmaple. 
+Here is the requisite Cassini position relative to Saturn visualization, followed by a Mars Reconnaissance Orbiter example. 
 
-![Image](https://github.com/corrinerojas/naif/blob/master/cassini/SpiceyPy_CassiniTutorial_PositionEx.png)
+![Image](https://raw.githubusercontent.com/corrinerojas/naif/master/cassini/SpiceyPy_CassiniTutorial_PositionEx.png)
 
 
 
 ### Publications
 
+Rojas, C., Mahanti, P., Robinson, M. S., 2019. Morphological Classification of Complex Eratosthenian Craters. Lunar Planet. Sci. Conf XLIX, 2499. [Link to the abstract](https://www.hou.usra.edu/meetings/lpsc2019/pdf/2499.pdf) [Link to the ePoster](https://www.hou.usra.edu/meetings/lpsc2019/eposter/2499.pdf)
+
+Rojas, C., Mahanti, P., Robinson, M. S., 2018. Slope - geologic age relationships in complex lunar craters. Lunar Planet. Sci. Conf XLVIII, 2399. [Link to the abstract](https://www.hou.usra.edu/meetings/lpsc2018/pdf/2399.pdf) [Link to the ePoster](https://www.hou.usra.edu/meetings/lpsc2018/eposter/2399.pdf)
 
 ### Resume
 
