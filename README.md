@@ -31,6 +31,8 @@ I am currently working on backend testing of a realtime web browser-based applic
 ![Image](https://raw.githubusercontent.com/corrinerojas/flight_tracker/master/us_flight_map_static.png)
 >us_flight_map.py, using python and bokeh libraries
 
+[View project on GitHub](https://github.com/corrinerojas/flight_tracker)
+
 
 #### NAIF SPICE Kernel Visualizations
 
@@ -42,7 +44,7 @@ Here is the requisite Cassini position relative to Saturn visualization, followe
 
 ![Image](https://raw.githubusercontent.com/corrinerojas/naif/master/cassini/SpiceyPy_CassiniTutorial_PositionEx.png)
 
-
+[View project on GitHub](https://github.com/corrinerojas/naif)
 
 ### Publications
 
