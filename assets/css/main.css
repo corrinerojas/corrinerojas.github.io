@@ -94,7 +94,7 @@ html {
 }
 
 body {
-	background: #1b1f22;
+	background: #2c0000;
 }
 
 	body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -452,7 +452,7 @@ select {
 
 	select option {
 		color: #ffffff;
-		background: #1b1f22;
+		background: #2c0000;
 	}
 
 	select:focus::-ms-value {
@@ -539,7 +539,7 @@ input[type="radio"] {
 	input[type="radio"]:checked + label:before {
 		background: #ffffff !important;
 		border-color: #ffffff !important;
-		color: #1b1f22;
+		color: #2c0000;
 		content: '\f00c';
 	}
 
@@ -1066,7 +1066,7 @@ button,
 	button.primary,
 	.button.primary {
 		background-color: #ffffff;
-		color: #1b1f22 !important;
+		color: #2c0000 !important;
 		font-weight: 600;
 	}
 
